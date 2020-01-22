@@ -1,0 +1,5 @@
+classes = 119
+train  = /content/drive/darknet/cfg/yolo-home_objects-train.txt
+valid  = /content/drive/darknet/cfg/yolo-home_objects-test.txt
+names = /content/drive/darknet/data/classes.names
+backup = /content/drive/My\ Drive/TrainYolov3/backup
